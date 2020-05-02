@@ -25,7 +25,7 @@ Render a rubik's cube while enabling rotation of the different faces.
 - SceneData.cpp 
   - *Scene represention.*
 - InputHandler.cpp
-  - *User input handler*
+  - *User input handler.*
 - display.cpp
   - *glfw Window wrapper.*
 
