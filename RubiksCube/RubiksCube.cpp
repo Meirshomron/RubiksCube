@@ -93,7 +93,7 @@ void RubiksCube::rotateFace(int axisIdx, int col, int direction)
 	float previousPartialRotation;
 	vec3 axis;
 
-	// In case the angleis 180, we change the angle to 90 and call rotateFace twice and then set the angle back to 180.
+	// In case the angle is 180, we change the angle to 90 and call rotateFace twice and then set the angle back to 180.
 	if (m_angle == 180)
 	{
 		m_angle = 90.0f;
