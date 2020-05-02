@@ -60,6 +60,12 @@ Render a rubik's cube while enabling rotation of the different faces.
 
 **Use arrows to rotate the whole rubik's cube around.**
 
+## Future Possible Upgrades
+- Rubik's cube solver implementation.
+- Mouse movement to rotate faces and the cube around.
+- Levels of difficulty and timer countdown.
+- Textures and lighting.
+
 ##  Images:
 <img  src="Images/RubiksCube_1.png" width="400" >
 <img  src="Images/RubiksCube_2.png" width="400" >
